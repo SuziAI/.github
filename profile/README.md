@@ -29,10 +29,10 @@ achieved by conducting research about *suzipu* notation using digitization and m
 The subprojects currently associated with SuziAI are:
 1. [gui-tools](https://github.com/SuziAI/gui-tools): The digital representation of *suzipu* notation and the annotation
    tool for creating databases suitable for the development of OMR techniques.
+2. [KuiSCIMA](https://github.com/SuziAI/KuiSCIMA): A digital machine-readable corpus of both purely symbolic and OMR-oriented representations of the 17
+   *suzipu* pieces from *Baishidaoren Gequ*.
 
 #### Future Subprojects
-2. SuziCORPUS: A digital machine-readable corpus of both purely symbolic and OMR-oriented representations of the 17
-   *suzipu* pieces from *Baishidaoren Gequ*.
 3. SuziOMR: The development of deep learning algorithms for optical music recognition (OMR) of *suzipu* notation.
 4. SuziGEN: The style-based generation of melodies to *ci* 词 poetry in *suzipu* notation.
 
