@@ -10,7 +10,7 @@ In addition, the notation is still used in the actively performed music traditio
 The largest historical source of music written in *suzipu* notation is *Baishidaoren Gequ* 白石道人歌曲 by *Jiang Kui*
 姜夔, a collection of poetry firstly published in 1202.
 
-<img src="profile/original.png" width="300">
+<img src="original.png" width="300">
 
 ### Goal
 
@@ -37,8 +37,8 @@ The subprojects currently associated with SuziAI are:
 4. SuziGEN: The style-based generation of melodies to *ci* 词 poetry in *suzipu* notation.
 
 
-<img src="profile/intermediate_notation.png" width="300">
-<img src="profile/transnotation.png" width="300">
+<img src="intermediate_notation.png" width="300">
+<img src="transnotation.png" width="300">
 
 
 
