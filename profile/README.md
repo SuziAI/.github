@@ -33,10 +33,8 @@ The subprojects currently associated with SuziAI are:
    *suzipu* pieces from *Baishidaoren Gequ*.
 3. [SuziOMR](https://github.com/SuziAI/SuziOMR): The development of deep learning algorithms for optical music recognition (OMR) of *suzipu* notation.
 4. [HumanAnnotationBaselineStudy](https://github.com/SuziAI/HumanAnnotationBaselineStudy): Due to the *suzipu* notation's ambiguity, it is difficult to assess an OMR model's performance. For this, a user study was performed to compare the OMR model's accuracy and time against the performance of human users.
+5. [SuziGEN](https://github.com/SuziAI/SuziGEN): Stylistic generation of musical notation for *ci* poetry in the style of the 17 *suzipu* pieces in *Baishidaoren Gequ*.
    
-#### Future Subprojects
-4. SuziGEN: The style-based generation of melodies to *ci* 词 poetry in *suzipu* notation.
-
 
 <img src="intermediate_notation.png" width="300">
 <img src="transnotation.png" width="300">
